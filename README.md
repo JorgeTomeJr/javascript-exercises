@@ -1,1 +1,1 @@
-Exercícios de javascript
+Exercícios de javascript (CJRM)
